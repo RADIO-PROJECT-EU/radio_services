@@ -1,0 +1,4 @@
+int32 command
+string name
+---
+bool answer
