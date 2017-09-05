@@ -1,4 +1,5 @@
 int32 command
 string name
+string repetition
 ---
 bool answer
